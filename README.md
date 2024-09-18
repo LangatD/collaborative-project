@@ -1,1 +1,1 @@
-this is a project on git basics
+That was a project on git basics
